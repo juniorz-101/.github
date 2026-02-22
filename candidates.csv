@@ -1,0 +1,1001 @@
+candidate_id,skills,experience_years,education,location,salary_expectation
+0,"Python,Docker,Scikit-learn",3,Bachelor,Haifa,15358
+1,"Excel,PyTorch,Python",0,High School,Haifa,19623
+2,"Tableau,NumPy,Docker",10,PhD,Haifa,26719
+3,"Git,Python,Pandas,PyTorch,TensorFlow",4,Bachelor,Haifa,23029
+4,"SQL,PyTorch,Spark",5,Master,Jerusalem,13423
+5,"Tableau,SQL,PyTorch,Git,Spark,Scikit-learn",10,Master,Haifa,14279
+6,"AWS,NumPy,Scikit-learn",1,Bachelor,Tel Aviv,24455
+7,"Power BI,AWS,TensorFlow,Pandas,Docker",5,Bachelor,Jerusalem,14339
+8,"Tableau,Docker,NumPy,Pandas",7,PhD,Jerusalem,19196
+9,"Spark,Git,Python,NumPy,Docker",5,PhD,Jerusalem,14168
+10,"Excel,Docker,TensorFlow,NumPy",10,PhD,Remote,27035
+11,"Scikit-learn,Pandas,NumPy,Tableau",8,Master,Remote,25087
+12,"NumPy,Pandas,Tableau,Power BI,SQL",0,High School,Haifa,17242
+13,"Excel,SQL,PyTorch,Docker,Spark,Power BI",8,Master,Tel Aviv,15753
+14,"Git,AWS,TensorFlow,SQL,Scikit-learn",6,Bachelor,Remote,12106
+15,"Tableau,Git,Pandas,Spark,SQL",10,Master,Haifa,17008
+16,"Git,Pandas,Tableau,Docker,Python",9,Master,Remote,12638
+17,"TensorFlow,Git,Scikit-learn",3,High School,Haifa,14580
+18,"Docker,Power BI,SQL",8,Bachelor,Haifa,27574
+19,"Scikit-learn,Tableau,Excel,PyTorch",3,Bachelor,Jerusalem,25074
+20,"Power BI,Tableau,Spark,SQL,NumPy",3,High School,Jerusalem,12689
+21,"Excel,NumPy,Python,SQL",10,High School,Haifa,14208
+22,"Spark,TensorFlow,SQL",8,Bachelor,Jerusalem,27906
+23,"Tableau,Pandas,Docker,Excel",9,PhD,Haifa,27498
+24,"NumPy,SQL,Git,AWS,PyTorch,TensorFlow",6,PhD,Remote,13775
+25,"Python,PyTorch,Docker",5,High School,Haifa,18278
+26,"Tableau,Power BI,Pandas,PyTorch",2,Master,Remote,20185
+27,"Power BI,Git,Tableau",1,High School,Tel Aviv,15056
+28,"Pandas,PyTorch,Power BI,Docker",3,PhD,Tel Aviv,17394
+29,"Python,PyTorch,Scikit-learn,Power BI,Docker,Git",8,PhD,Haifa,18222
+30,"NumPy,Python,Excel,Tableau,Git",5,High School,Tel Aviv,27623
+31,"Python,Tableau,SQL,Pandas",1,High School,Haifa,25230
+32,"Excel,NumPy,Spark",9,High School,Tel Aviv,25737
+33,"Scikit-learn,NumPy,AWS,TensorFlow,Git",4,PhD,Haifa,21830
+34,"TensorFlow,Git,SQL,Python,Power BI,Docker",1,Bachelor,Jerusalem,16340
+35,"SQL,NumPy,TensorFlow,Scikit-learn,Pandas",7,Master,Tel Aviv,21810
+36,"Pandas,Scikit-learn,SQL",1,Bachelor,Jerusalem,21232
+37,"Docker,TensorFlow,NumPy,AWS",10,Master,Remote,20228
+38,"SQL,AWS,PyTorch",4,High School,Tel Aviv,22929
+39,"AWS,Scikit-learn,Pandas,Power BI",8,PhD,Tel Aviv,15665
+40,"Docker,Pandas,Tableau",0,Master,Haifa,26083
+41,"Python,Scikit-learn,TensorFlow,Spark",5,Bachelor,Haifa,15368
+42,"Git,Tableau,PyTorch,Excel,Pandas",3,Bachelor,Haifa,25510
+43,"Pandas,Docker,TensorFlow",6,Bachelor,Jerusalem,17216
+44,"PyTorch,Python,Power BI",3,Bachelor,Remote,23457
+45,"Spark,Git,NumPy,Docker,Python",10,Bachelor,Remote,22756
+46,"Spark,SQL,Scikit-learn,TensorFlow,Tableau",6,Master,Tel Aviv,15779
+47,"Pandas,Excel,Scikit-learn,Python,SQL",9,PhD,Jerusalem,22278
+48,"Excel,Tableau,SQL,PyTorch,Spark,NumPy",4,High School,Remote,12055
+49,"TensorFlow,PyTorch,SQL,AWS",5,Master,Tel Aviv,21840
+50,"AWS,PyTorch,TensorFlow,Git,Scikit-learn",8,Bachelor,Haifa,25777
+51,"AWS,Docker,Pandas,Excel,Spark,Scikit-learn",6,High School,Jerusalem,21401
+52,"PyTorch,Git,Excel,Docker",10,Master,Remote,26476
+53,"AWS,NumPy,Tableau,Power BI,Pandas,SQL",4,Master,Tel Aviv,19696
+54,"NumPy,Git,Spark,Pandas,Python",0,Bachelor,Remote,14386
+55,"PyTorch,AWS,Excel,NumPy,Spark,Power BI",6,Bachelor,Haifa,12181
+56,"Git,PyTorch,NumPy",2,PhD,Tel Aviv,20165
+57,"Power BI,Pandas,Spark",10,Master,Remote,28540
+58,"Spark,Tableau,Power BI,Pandas,Docker,Excel",4,Bachelor,Jerusalem,29081
+59,"AWS,NumPy,Scikit-learn,Power BI,SQL,Docker",3,Master,Jerusalem,22476
+60,"Pandas,Spark,NumPy",6,Bachelor,Haifa,14104
+61,"PyTorch,TensorFlow,Tableau,Power BI,Spark,Python",3,PhD,Remote,12640
+62,"Power BI,Python,TensorFlow,Scikit-learn,PyTorch,Excel",8,Bachelor,Remote,19190
+63,"PyTorch,Power BI,Python,Spark,TensorFlow",10,PhD,Haifa,27315
+64,"Excel,Tableau,Python,PyTorch",9,High School,Tel Aviv,26044
+65,"Spark,Power BI,Pandas,Python",4,PhD,Jerusalem,18935
+66,"TensorFlow,Spark,PyTorch,Scikit-learn,Docker,AWS",1,PhD,Tel Aviv,29675
+67,"TensorFlow,NumPy,AWS",1,High School,Tel Aviv,20102
+68,"Spark,Python,Excel,Pandas",3,Bachelor,Remote,15748
+69,"Power BI,Docker,Scikit-learn,TensorFlow",2,High School,Haifa,22192
+70,"Excel,Python,Scikit-learn",9,PhD,Remote,18498
+71,"Excel,Docker,AWS",3,High School,Jerusalem,15966
+72,"TensorFlow,Tableau,PyTorch",10,Master,Tel Aviv,28579
+73,"Python,PyTorch,Power BI,SQL,Git",5,PhD,Haifa,26270
+74,"Docker,Tableau,AWS,Scikit-learn",9,PhD,Remote,26272
+75,"TensorFlow,NumPy,SQL,Scikit-learn,Power BI",3,PhD,Remote,23023
+76,"Power BI,TensorFlow,Pandas",7,Bachelor,Jerusalem,20465
+77,"Scikit-learn,Excel,Docker,Spark,Tableau",0,Bachelor,Tel Aviv,19908
+78,"Power BI,Tableau,NumPy,Spark,AWS,Excel",0,High School,Jerusalem,19261
+79,"Docker,NumPy,Scikit-learn,AWS,Excel,TensorFlow",7,Master,Remote,22839
+80,"Docker,Power BI,Scikit-learn,Spark,AWS",3,High School,Haifa,22339
+81,"Docker,Tableau,Spark",2,Bachelor,Haifa,27866
+82,"Docker,Excel,Tableau,Git,Scikit-learn",1,Bachelor,Jerusalem,19454
+83,"Pandas,Scikit-learn,Python,Tableau,Spark",4,High School,Tel Aviv,21572
+84,"AWS,Git,Power BI,SQL",0,Master,Remote,27686
+85,"TensorFlow,Pandas,Python,Scikit-learn,Power BI,SQL",1,PhD,Remote,14427
+86,"Pandas,Spark,Excel",4,High School,Haifa,15881
+87,"Excel,Spark,Git,NumPy,Tableau,PyTorch",7,PhD,Jerusalem,26051
+88,"Excel,Spark,Python,Git,SQL",3,Bachelor,Jerusalem,14660
+89,"NumPy,Pandas,Tableau,SQL",2,High School,Remote,26762
+90,"Scikit-learn,Python,NumPy,Spark,AWS,Power BI",1,Bachelor,Jerusalem,18482
+91,"SQL,Tableau,NumPy,AWS,Pandas,Scikit-learn",2,High School,Tel Aviv,17436
+92,"Excel,Docker,Spark,Scikit-learn,Power BI",1,PhD,Jerusalem,25189
+93,"Tableau,Spark,Power BI,Docker,SQL",9,High School,Remote,22561
+94,"Python,SQL,NumPy,AWS,Excel",9,High School,Jerusalem,13318
+95,"Power BI,Tableau,AWS,Spark",4,Bachelor,Remote,28112
+96,"Power BI,TensorFlow,PyTorch",5,Master,Tel Aviv,17269
+97,"PyTorch,Docker,Power BI,Scikit-learn,Spark",8,High School,Remote,14885
+98,"Scikit-learn,TensorFlow,SQL,PyTorch,Tableau",0,PhD,Remote,13776
+99,"Tableau,TensorFlow,Excel,Power BI",10,PhD,Tel Aviv,18670
+100,"Tableau,Pandas,Scikit-learn,Power BI,AWS",1,High School,Haifa,17189
+101,"Tableau,Python,Spark,PyTorch,SQL",3,High School,Remote,15849
+102,"Power BI,Docker,Scikit-learn,Tableau",4,PhD,Remote,27473
+103,"Power BI,Tableau,Pandas,PyTorch",3,Bachelor,Tel Aviv,21052
+104,"TensorFlow,Git,Tableau,Scikit-learn,Python,AWS",4,PhD,Haifa,26632
+105,"TensorFlow,Spark,Tableau,Docker,PyTorch,Power BI",5,Bachelor,Haifa,24549
+106,"Spark,Git,PyTorch,Python",5,PhD,Remote,24651
+107,"Power BI,Python,Pandas,Tableau",9,Master,Tel Aviv,26427
+108,"Tableau,Power BI,Python",2,PhD,Haifa,14451
+109,"Git,Scikit-learn,TensorFlow,Excel,PyTorch,SQL",5,PhD,Jerusalem,27989
+110,"Excel,SQL,NumPy",10,Master,Haifa,14961
+111,"SQL,Git,AWS,Spark,Power BI,Pandas",4,High School,Tel Aviv,22629
+112,"Scikit-learn,TensorFlow,Git",6,Bachelor,Haifa,29405
+113,"Excel,AWS,Pandas,Docker,Git,SQL",9,PhD,Haifa,28307
+114,"NumPy,Power BI,AWS,Scikit-learn",7,Master,Tel Aviv,27245
+115,"AWS,Tableau,Pandas,SQL,Power BI",5,Master,Remote,20195
+116,"Spark,Scikit-learn,NumPy,PyTorch,Power BI,SQL",3,PhD,Jerusalem,21695
+117,"Python,AWS,PyTorch,Scikit-learn,Spark",9,High School,Remote,21378
+118,"Excel,Git,TensorFlow,NumPy",10,Bachelor,Jerusalem,16481
+119,"AWS,Spark,Python",4,PhD,Tel Aviv,23955
+120,"SQL,Scikit-learn,TensorFlow,PyTorch",2,Bachelor,Haifa,29675
+121,"Tableau,Spark,Scikit-learn,Pandas,Docker",7,Master,Jerusalem,15773
+122,"SQL,Pandas,NumPy,AWS,PyTorch,Tableau",5,High School,Remote,12456
+123,"Tableau,SQL,Power BI,TensorFlow,Scikit-learn",9,PhD,Jerusalem,15550
+124,"Power BI,Python,Excel,Tableau",5,Bachelor,Tel Aviv,27213
+125,"AWS,PyTorch,SQL,Pandas,Python",0,Master,Remote,15805
+126,"NumPy,Tableau,Pandas",6,PhD,Jerusalem,29701
+127,"Excel,Docker,Git,Pandas,PyTorch,SQL",7,PhD,Jerusalem,13072
+128,"NumPy,Power BI,Git,Spark,TensorFlow",1,Master,Jerusalem,13984
+129,"Scikit-learn,NumPy,SQL,Power BI,Docker,Git",10,High School,Tel Aviv,22928
+130,"Pandas,Git,Excel,NumPy",1,Bachelor,Haifa,19634
+131,"Git,Pandas,Excel,Python,Scikit-learn",2,Bachelor,Jerusalem,17717
+132,"AWS,Python,Pandas",0,Master,Haifa,22609
+133,"Pandas,Scikit-learn,Python",2,PhD,Tel Aviv,14082
+134,"Power BI,Git,TensorFlow,Tableau,Excel,SQL",7,Bachelor,Tel Aviv,29086
+135,"Power BI,AWS,Python,Docker,Spark",6,PhD,Tel Aviv,28065
+136,"SQL,Spark,TensorFlow,Excel,Pandas,Git",2,Master,Jerusalem,24481
+137,"Power BI,Tableau,Excel,PyTorch,SQL",1,Bachelor,Remote,26796
+138,"PyTorch,TensorFlow,Power BI,Spark",6,High School,Jerusalem,25984
+139,"AWS,Scikit-learn,TensorFlow,Pandas,Power BI",1,High School,Tel Aviv,15054
+140,"SQL,Docker,Git,TensorFlow,Pandas,Tableau",0,Master,Tel Aviv,25461
+141,"Spark,AWS,PyTorch,Python,Scikit-learn",9,Master,Jerusalem,15394
+142,"Pandas,AWS,Power BI,NumPy",1,Master,Jerusalem,15764
+143,"Excel,NumPy,PyTorch,Tableau,Spark",9,High School,Jerusalem,12948
+144,"Scikit-learn,Docker,Spark,TensorFlow",5,High School,Haifa,16694
+145,"SQL,Pandas,Docker,AWS,Python,Spark",8,Bachelor,Remote,25757
+146,"TensorFlow,Pandas,Spark,Scikit-learn,Docker,SQL",0,Bachelor,Haifa,13630
+147,"Scikit-learn,Power BI,AWS",6,PhD,Remote,25571
+148,"NumPy,Git,Tableau,SQL,TensorFlow",6,High School,Jerusalem,27945
+149,"Python,NumPy,PyTorch,Excel,Spark",0,Bachelor,Jerusalem,18921
+150,"Git,Scikit-learn,Spark,TensorFlow",1,High School,Remote,26111
+151,"Pandas,PyTorch,Tableau,NumPy",8,Master,Tel Aviv,25011
+152,"PyTorch,Python,Power BI",1,Master,Remote,25252
+153,"Scikit-learn,SQL,PyTorch,Python,TensorFlow,Pandas",9,PhD,Jerusalem,14887
+154,"Spark,SQL,NumPy,PyTorch,Excel,AWS",8,High School,Remote,22167
+155,"NumPy,TensorFlow,Pandas,SQL,Tableau",10,High School,Haifa,23448
+156,"Docker,AWS,Pandas,NumPy,SQL",2,Master,Haifa,17685
+157,"Git,Spark,AWS,SQL",2,PhD,Remote,26709
+158,"Spark,AWS,TensorFlow,Pandas,Power BI",1,PhD,Remote,21922
+159,"Excel,Python,TensorFlow,Tableau,SQL",4,PhD,Remote,13232
+160,"TensorFlow,Scikit-learn,SQL",10,High School,Remote,27162
+161,"Power BI,Git,Excel",10,Bachelor,Jerusalem,27585
+162,"Python,Power BI,SQL,TensorFlow",1,Bachelor,Tel Aviv,20118
+163,"Power BI,Tableau,Git,Excel,Pandas,TensorFlow",5,Master,Remote,25394
+164,"AWS,Excel,Python,Spark,TensorFlow",1,Master,Tel Aviv,24666
+165,"Scikit-learn,Docker,AWS,Excel,Pandas",5,High School,Haifa,23462
+166,"AWS,Docker,Spark,PyTorch,Pandas",9,High School,Jerusalem,24343
+167,"Spark,Pandas,AWS,Docker,Tableau",1,PhD,Jerusalem,12597
+168,"Scikit-learn,Pandas,NumPy,TensorFlow,Power BI",3,Bachelor,Haifa,17077
+169,"Scikit-learn,Git,SQL",8,High School,Jerusalem,16294
+170,"Pandas,Spark,Git,Excel,Docker,Power BI",0,PhD,Jerusalem,19783
+171,"Excel,Scikit-learn,Docker,Power BI,NumPy,Tableau",3,Master,Remote,18357
+172,"AWS,Excel,Power BI,Docker,Scikit-learn",6,PhD,Haifa,18543
+173,"Spark,Scikit-learn,Python,AWS",7,Master,Tel Aviv,28905
+174,"Scikit-learn,SQL,Pandas",4,PhD,Haifa,26335
+175,"NumPy,Power BI,TensorFlow",0,PhD,Tel Aviv,24991
+176,"NumPy,PyTorch,SQL,TensorFlow,Spark",0,Master,Tel Aviv,22986
+177,"Pandas,Python,Scikit-learn,Power BI",2,PhD,Remote,12172
+178,"Python,Scikit-learn,NumPy",2,PhD,Tel Aviv,21440
+179,"Scikit-learn,SQL,Python,NumPy",6,PhD,Tel Aviv,15632
+180,"Excel,Tableau,Python,AWS,Git,NumPy",2,Master,Remote,12051
+181,"NumPy,Excel,PyTorch,Pandas,SQL",8,Master,Tel Aviv,29237
+182,"PyTorch,Power BI,Python",10,PhD,Jerusalem,20311
+183,"TensorFlow,Git,SQL",5,Bachelor,Tel Aviv,22895
+184,"Python,TensorFlow,Tableau,Git",10,Bachelor,Remote,27680
+185,"Git,Pandas,SQL,Power BI",0,Master,Haifa,13435
+186,"Python,TensorFlow,Scikit-learn,Tableau",6,PhD,Jerusalem,13199
+187,"Scikit-learn,TensorFlow,Python,AWS",5,Master,Tel Aviv,24059
+188,"PyTorch,Docker,Power BI,Spark,TensorFlow,Pandas",7,PhD,Jerusalem,29015
+189,"Git,SQL,Docker,PyTorch,Spark",6,Bachelor,Jerusalem,22525
+190,"SQL,TensorFlow,AWS",4,Master,Remote,25962
+191,"Docker,Power BI,TensorFlow,Git",0,Master,Remote,20996
+192,"SQL,AWS,Git",6,Master,Haifa,13020
+193,"Spark,Excel,AWS,Power BI",0,Bachelor,Tel Aviv,19733
+194,"TensorFlow,PyTorch,Excel,Python,Docker",2,PhD,Jerusalem,24190
+195,"Git,SQL,Excel,Pandas,Tableau,TensorFlow",6,Master,Jerusalem,20179
+196,"Python,Docker,Pandas",7,PhD,Tel Aviv,20577
+197,"Docker,Power BI,NumPy,Excel,Scikit-learn",7,Bachelor,Tel Aviv,16447
+198,"Power BI,Pandas,Docker",7,High School,Jerusalem,23384
+199,"Tableau,Spark,Scikit-learn",4,Bachelor,Haifa,23845
+200,"SQL,NumPy,Pandas,Git",7,High School,Jerusalem,24088
+201,"Git,Tableau,Pandas,Excel,SQL,AWS",4,PhD,Remote,29225
+202,"Git,PyTorch,Excel,SQL,Pandas,TensorFlow",10,High School,Remote,27264
+203,"Pandas,Git,Tableau,AWS,Excel",2,Bachelor,Remote,28477
+204,"Spark,SQL,Tableau",2,Master,Haifa,17307
+205,"Docker,NumPy,TensorFlow,Tableau,Scikit-learn",1,Master,Haifa,20993
+206,"AWS,Scikit-learn,Excel,Tableau",1,Bachelor,Haifa,17609
+207,"Spark,Excel,Python,Docker,SQL",0,Master,Haifa,25650
+208,"Power BI,AWS,Tableau",4,Master,Remote,20024
+209,"Scikit-learn,Power BI,SQL,Python,Pandas,Git",6,PhD,Remote,18685
+210,"Excel,Pandas,TensorFlow,Docker,AWS",6,Bachelor,Jerusalem,28874
+211,"TensorFlow,NumPy,Power BI",1,Master,Remote,20123
+212,"SQL,Python,Scikit-learn,PyTorch",9,PhD,Haifa,17233
+213,"Excel,Docker,TensorFlow,NumPy,Pandas",7,PhD,Remote,22110
+214,"Python,SQL,PyTorch,Tableau,Power BI,NumPy",3,Master,Tel Aviv,13656
+215,"Power BI,Excel,AWS,Docker,Spark",4,High School,Tel Aviv,26120
+216,"Scikit-learn,Docker,TensorFlow,PyTorch",5,High School,Remote,13676
+217,"TensorFlow,Tableau,Scikit-learn,SQL",6,PhD,Jerusalem,15893
+218,"SQL,PyTorch,TensorFlow,Docker",8,Master,Haifa,18522
+219,"Tableau,Python,Git,Docker,Pandas,TensorFlow",7,PhD,Haifa,28892
+220,"TensorFlow,Excel,Spark,Pandas",6,Master,Jerusalem,28623
+221,"Docker,Excel,Scikit-learn,Power BI,Python,TensorFlow",5,High School,Remote,22081
+222,"Excel,Power BI,Scikit-learn",10,Bachelor,Tel Aviv,27743
+223,"Tableau,AWS,Docker,Excel",6,Bachelor,Haifa,13034
+224,"NumPy,Python,Power BI",5,PhD,Haifa,25531
+225,"PyTorch,Tableau,Excel,Power BI",0,Bachelor,Haifa,22651
+226,"Tableau,PyTorch,TensorFlow,Pandas,Power BI,Spark",5,Master,Jerusalem,27865
+227,"NumPy,Scikit-learn,Tableau,Git",3,Master,Jerusalem,18792
+228,"TensorFlow,Power BI,Spark,Tableau,Scikit-learn,Excel",1,PhD,Remote,23309
+229,"Scikit-learn,Python,Spark,SQL",5,PhD,Jerusalem,27698
+230,"NumPy,Tableau,Scikit-learn,Git",4,Bachelor,Tel Aviv,19840
+231,"Python,AWS,Tableau,NumPy",10,Bachelor,Tel Aviv,15283
+232,"TensorFlow,Docker,Power BI,SQL,Pandas,Python",8,Bachelor,Remote,27587
+233,"AWS,NumPy,Scikit-learn,TensorFlow,Docker,Python",1,Bachelor,Tel Aviv,17736
+234,"Spark,Pandas,Python,PyTorch,Power BI,Git",4,High School,Tel Aviv,21777
+235,"TensorFlow,Scikit-learn,Power BI",10,PhD,Haifa,28522
+236,"Scikit-learn,NumPy,SQL,TensorFlow,Pandas,Power BI",10,Master,Haifa,12461
+237,"Git,Scikit-learn,Excel,AWS,NumPy",2,PhD,Remote,28884
+238,"SQL,PyTorch,AWS,Spark,Pandas",2,PhD,Jerusalem,20128
+239,"Scikit-learn,PyTorch,NumPy",7,Master,Jerusalem,21894
+240,"Scikit-learn,AWS,TensorFlow",3,High School,Tel Aviv,27250
+241,"Pandas,PyTorch,AWS,Tableau,Scikit-learn",1,Master,Jerusalem,19236
+242,"Pandas,Power BI,Spark,Git",9,Master,Remote,29997
+243,"Git,Tableau,AWS,NumPy,Docker,SQL",8,PhD,Jerusalem,14559
+244,"Python,Tableau,Git",3,Bachelor,Haifa,22751
+245,"SQL,AWS,NumPy,Excel,Power BI,Spark",8,PhD,Tel Aviv,26858
+246,"Tableau,PyTorch,Power BI,Excel",0,PhD,Jerusalem,12713
+247,"Scikit-learn,Python,Docker,NumPy,Excel,SQL",0,PhD,Jerusalem,14089
+248,"SQL,Power BI,Python",4,PhD,Haifa,16437
+249,"TensorFlow,PyTorch,Power BI,Git,AWS,SQL",10,Bachelor,Jerusalem,15887
+250,"Tableau,PyTorch,Spark,Pandas",3,High School,Tel Aviv,21776
+251,"AWS,Docker,Tableau,PyTorch,Git,Spark",3,Bachelor,Remote,23342
+252,"Scikit-learn,NumPy,Docker,SQL",0,PhD,Tel Aviv,19886
+253,"SQL,Spark,Excel,Python",7,High School,Haifa,13449
+254,"Power BI,NumPy,Tableau,Git,Python,Pandas",8,Master,Haifa,22449
+255,"NumPy,Scikit-learn,Pandas,AWS,Tableau",3,PhD,Jerusalem,21016
+256,"Tableau,Excel,Docker",2,PhD,Remote,13536
+257,"AWS,Spark,PyTorch,Tableau,TensorFlow",6,PhD,Haifa,21826
+258,"Pandas,Git,Tableau,Power BI,NumPy,Excel",4,Bachelor,Remote,13888
+259,"PyTorch,Tableau,Git,Pandas,Spark,NumPy",4,Bachelor,Jerusalem,14590
+260,"Spark,TensorFlow,SQL,Tableau,NumPy,Python",4,PhD,Tel Aviv,14384
+261,"Git,Spark,Excel,AWS",8,Bachelor,Remote,18844
+262,"Scikit-learn,Python,NumPy,Docker,SQL",7,Bachelor,Haifa,24996
+263,"Tableau,TensorFlow,Scikit-learn,PyTorch",7,Master,Jerusalem,20570
+264,"Tableau,Power BI,Git,SQL,Docker",5,Bachelor,Jerusalem,22253
+265,"Python,Excel,NumPy,Pandas,Spark,Scikit-learn",8,PhD,Jerusalem,16994
+266,"TensorFlow,NumPy,PyTorch,Excel",3,PhD,Jerusalem,20432
+267,"Docker,AWS,Spark,Power BI,Git,Pandas",5,Bachelor,Haifa,29909
+268,"Pandas,Tableau,AWS,Python,Git,Docker",1,High School,Tel Aviv,25513
+269,"Spark,AWS,NumPy,SQL",2,High School,Haifa,28571
+270,"TensorFlow,Python,Excel,AWS,Docker,Power BI",10,PhD,Tel Aviv,12216
+271,"Python,Spark,Tableau,Scikit-learn,Docker,AWS",0,PhD,Haifa,15506
+272,"Tableau,Pandas,NumPy",3,Master,Jerusalem,20759
+273,"SQL,TensorFlow,PyTorch,Power BI,Excel,NumPy",3,Master,Tel Aviv,13038
+274,"PyTorch,Spark,Git",8,PhD,Tel Aviv,12309
+275,"SQL,Power BI,PyTorch,AWS",5,High School,Tel Aviv,19528
+276,"Spark,Docker,Excel,Power BI",4,High School,Tel Aviv,21187
+277,"Pandas,TensorFlow,Python",3,Bachelor,Remote,14521
+278,"Pandas,Excel,NumPy,Git,PyTorch",10,Master,Remote,16585
+279,"Tableau,Docker,TensorFlow",0,High School,Remote,19606
+280,"TensorFlow,Excel,Git",9,PhD,Jerusalem,12970
+281,"Git,Power BI,Spark,NumPy,TensorFlow",8,PhD,Remote,18086
+282,"SQL,Git,Excel,Scikit-learn,NumPy,Spark",1,Master,Haifa,24451
+283,"Docker,PyTorch,TensorFlow,Spark",1,High School,Tel Aviv,22101
+284,"TensorFlow,Git,Scikit-learn,SQL,Pandas,AWS",2,PhD,Remote,28791
+285,"SQL,Python,Spark,TensorFlow,Tableau,Docker",9,Master,Remote,12404
+286,"PyTorch,Spark,SQL,Tableau,NumPy",9,Bachelor,Remote,17554
+287,"Scikit-learn,Spark,Git,Power BI",2,High School,Haifa,26243
+288,"PyTorch,Scikit-learn,Power BI,SQL,TensorFlow",4,Bachelor,Remote,18407
+289,"SQL,Pandas,Scikit-learn,Python,PyTorch,TensorFlow",9,PhD,Jerusalem,26425
+290,"PyTorch,AWS,Excel,Pandas,Scikit-learn",5,Bachelor,Remote,22295
+291,"PyTorch,TensorFlow,Scikit-learn,AWS",7,Bachelor,Jerusalem,24322
+292,"Spark,Git,PyTorch,TensorFlow,SQL",9,Bachelor,Haifa,12881
+293,"Docker,NumPy,Power BI,Scikit-learn,SQL,PyTorch",10,PhD,Haifa,21923
+294,"Scikit-learn,AWS,Pandas,PyTorch",6,High School,Remote,27703
+295,"Tableau,Spark,Docker,PyTorch,Git,Python",5,High School,Tel Aviv,20134
+296,"Pandas,AWS,Excel,Python,Docker",10,PhD,Jerusalem,26105
+297,"Python,SQL,Scikit-learn",3,Bachelor,Remote,24259
+298,"Power BI,Git,AWS,Excel,Tableau,Pandas",5,High School,Remote,15425
+299,"PyTorch,SQL,Git,Pandas,TensorFlow",4,Master,Remote,18778
+300,"TensorFlow,Power BI,SQL,Git,AWS,Spark",1,Master,Tel Aviv,15771
+301,"Spark,TensorFlow,AWS",1,Bachelor,Haifa,28908
+302,"Tableau,Pandas,TensorFlow,Spark",6,PhD,Haifa,25272
+303,"Pandas,AWS,Git,PyTorch",6,High School,Haifa,26731
+304,"PyTorch,Python,Docker,NumPy,AWS,Scikit-learn",1,High School,Haifa,23986
+305,"NumPy,Power BI,SQL,Scikit-learn,Git",8,Master,Remote,24862
+306,"TensorFlow,Spark,Power BI",9,Bachelor,Jerusalem,14777
+307,"TensorFlow,SQL,NumPy,Scikit-learn",1,Bachelor,Jerusalem,16632
+308,"PyTorch,Excel,Pandas,Git,Spark,AWS",2,PhD,Haifa,17467
+309,"Scikit-learn,Pandas,Git,TensorFlow,Power BI,Python",5,High School,Remote,16473
+310,"Spark,PyTorch,Tableau,Docker",10,PhD,Remote,28112
+311,"Docker,Power BI,Git,Pandas,SQL,Python",3,Master,Tel Aviv,21006
+312,"Tableau,Scikit-learn,Pandas,Power BI",9,PhD,Tel Aviv,15742
+313,"Git,Tableau,TensorFlow,Spark,Python",7,Bachelor,Remote,15355
+314,"Scikit-learn,Python,Power BI,Spark",5,High School,Remote,15846
+315,"NumPy,Git,Docker,Excel",5,PhD,Haifa,16562
+316,"Spark,NumPy,Python,Excel",5,Master,Haifa,22605
+317,"Scikit-learn,Excel,Spark,Tableau,SQL",2,PhD,Tel Aviv,21087
+318,"Docker,Pandas,NumPy,Git",5,Bachelor,Remote,28038
+319,"Excel,AWS,Scikit-learn,Git",6,PhD,Remote,14474
+320,"PyTorch,Tableau,Docker",4,Master,Remote,27992
+321,"Excel,Python,Docker,SQL,Power BI",10,Master,Tel Aviv,29512
+322,"NumPy,PyTorch,Spark,Power BI,Scikit-learn,TensorFlow",4,Master,Haifa,27903
+323,"AWS,Git,Python,Docker,SQL",10,PhD,Tel Aviv,16071
+324,"Power BI,Spark,Python,PyTorch",3,Bachelor,Jerusalem,17209
+325,"SQL,AWS,TensorFlow,Scikit-learn,Spark",5,Bachelor,Tel Aviv,24987
+326,"Docker,Spark,NumPy,PyTorch,SQL",1,High School,Haifa,27624
+327,"Pandas,Excel,NumPy",8,PhD,Tel Aviv,12264
+328,"Spark,SQL,PyTorch,Pandas,Power BI",1,Bachelor,Remote,14927
+329,"SQL,TensorFlow,Git",4,Bachelor,Remote,16362
+330,"SQL,Tableau,Excel,Python",9,Bachelor,Remote,23507
+331,"AWS,Docker,Pandas,PyTorch",9,PhD,Haifa,14840
+332,"Pandas,Git,SQL",9,PhD,Jerusalem,26070
+333,"Git,Pandas,NumPy,Scikit-learn,SQL",3,Master,Tel Aviv,21884
+334,"Tableau,Excel,Spark,NumPy",6,Master,Tel Aviv,19842
+335,"PyTorch,SQL,NumPy,Power BI,Excel,Git",8,High School,Jerusalem,22370
+336,"PyTorch,Excel,Spark,TensorFlow",8,Bachelor,Remote,14391
+337,"Excel,SQL,Python",4,Bachelor,Tel Aviv,13981
+338,"Tableau,Scikit-learn,AWS,Spark,PyTorch,Excel",6,High School,Haifa,21092
+339,"Scikit-learn,SQL,Tableau",3,Bachelor,Jerusalem,24803
+340,"Scikit-learn,Docker,PyTorch",3,High School,Haifa,14825
+341,"SQL,Power BI,Excel,Docker,Python,Scikit-learn",10,Bachelor,Tel Aviv,12415
+342,"Docker,Python,Pandas,Power BI",5,Master,Haifa,24185
+343,"Docker,Git,Scikit-learn,SQL",0,Master,Remote,20912
+344,"Scikit-learn,Docker,Excel",10,High School,Remote,26915
+345,"Python,Power BI,Excel,Pandas,TensorFlow",2,Master,Tel Aviv,15779
+346,"Docker,Tableau,Python,Spark",0,Bachelor,Tel Aviv,27458
+347,"PyTorch,Pandas,Git,Python,Tableau",10,PhD,Haifa,22544
+348,"PyTorch,Docker,TensorFlow,Scikit-learn",1,Master,Tel Aviv,28450
+349,"Pandas,NumPy,Tableau",0,PhD,Tel Aviv,27240
+350,"Git,Scikit-learn,TensorFlow,SQL,Tableau",7,High School,Jerusalem,18575
+351,"Excel,Git,Scikit-learn,Spark,NumPy",7,Master,Remote,18403
+352,"Pandas,Python,PyTorch,Git",3,Master,Tel Aviv,22977
+353,"Git,AWS,PyTorch",4,High School,Haifa,29360
+354,"PyTorch,Power BI,Python,Pandas",4,High School,Tel Aviv,19584
+355,"Docker,TensorFlow,Power BI,SQL,Excel,AWS",8,Bachelor,Remote,14452
+356,"PyTorch,AWS,Pandas",3,Master,Jerusalem,22322
+357,"Docker,Spark,TensorFlow,Git,Power BI,Scikit-learn",3,High School,Haifa,16460
+358,"Pandas,SQL,Spark",7,PhD,Jerusalem,25320
+359,"Tableau,TensorFlow,NumPy",7,Master,Remote,20683
+360,"SQL,Pandas,AWS",4,High School,Haifa,22741
+361,"SQL,Docker,NumPy,TensorFlow",6,High School,Jerusalem,20525
+362,"Python,PyTorch,Power BI,Tableau",8,Bachelor,Tel Aviv,27140
+363,"Git,Spark,Pandas",1,High School,Tel Aviv,19283
+364,"NumPy,PyTorch,TensorFlow,AWS",10,High School,Jerusalem,14457
+365,"SQL,NumPy,AWS",7,Bachelor,Tel Aviv,22864
+366,"Python,Power BI,Spark",2,PhD,Remote,28257
+367,"PyTorch,AWS,Spark",2,Master,Haifa,18132
+368,"Scikit-learn,Power BI,Pandas,Python,Excel",9,Bachelor,Jerusalem,28347
+369,"Tableau,Power BI,Python,SQL,Scikit-learn,PyTorch",2,PhD,Haifa,29229
+370,"AWS,Git,Tableau,Python",6,Master,Remote,29842
+371,"TensorFlow,Excel,Tableau,Spark,PyTorch,Scikit-learn",2,High School,Jerusalem,19176
+372,"Git,Spark,Scikit-learn",0,PhD,Jerusalem,19627
+373,"SQL,NumPy,AWS,Git",4,High School,Haifa,24727
+374,"Spark,Pandas,Git,NumPy,Excel",5,Master,Tel Aviv,23523
+375,"Excel,NumPy,Power BI,Tableau",4,Bachelor,Remote,13243
+376,"Python,NumPy,Excel",3,High School,Remote,12022
+377,"Excel,NumPy,Pandas,TensorFlow,Docker",5,High School,Tel Aviv,16840
+378,"Git,SQL,Tableau,TensorFlow",1,Master,Remote,15310
+379,"Scikit-learn,TensorFlow,Pandas,Docker,PyTorch",10,PhD,Jerusalem,17708
+380,"NumPy,AWS,Excel,Pandas,PyTorch",4,Master,Haifa,17823
+381,"Docker,Excel,PyTorch",9,High School,Haifa,22427
+382,"AWS,Excel,SQL,Power BI",2,Master,Tel Aviv,19798
+383,"TensorFlow,Pandas,AWS,SQL,Spark",7,High School,Jerusalem,18870
+384,"Docker,SQL,TensorFlow,Scikit-learn",1,High School,Tel Aviv,24646
+385,"Docker,PyTorch,Pandas,Git,Power BI,AWS",5,PhD,Tel Aviv,27711
+386,"Pandas,Power BI,SQL,Python",4,High School,Jerusalem,20556
+387,"SQL,TensorFlow,Pandas",6,Bachelor,Tel Aviv,29925
+388,"TensorFlow,Excel,Git",7,High School,Remote,17406
+389,"Pandas,Python,SQL,TensorFlow,NumPy,Excel",6,Master,Jerusalem,21745
+390,"SQL,Python,PyTorch,Excel",8,PhD,Haifa,13786
+391,"Python,PyTorch,SQL,Scikit-learn,Excel",7,Bachelor,Tel Aviv,12843
+392,"Pandas,AWS,Scikit-learn,SQL",7,High School,Jerusalem,25024
+393,"Power BI,AWS,Scikit-learn,SQL,Tableau,PyTorch",2,Master,Remote,24104
+394,"Power BI,Python,Scikit-learn,Spark",7,Master,Haifa,20800
+395,"Pandas,Git,Docker",10,High School,Tel Aviv,23265
+396,"Git,Excel,NumPy,Tableau,Python,PyTorch",8,PhD,Remote,19721
+397,"Scikit-learn,SQL,PyTorch,Python,Tableau,Excel",9,Bachelor,Tel Aviv,26714
+398,"Pandas,NumPy,Git,Spark",0,PhD,Tel Aviv,26266
+399,"Spark,AWS,Pandas,Excel",4,Master,Tel Aviv,14851
+400,"Tableau,PyTorch,Spark,TensorFlow,Scikit-learn,Docker",7,High School,Remote,15687
+401,"Pandas,Spark,Excel,Docker,AWS,SQL",1,High School,Jerusalem,29551
+402,"PyTorch,Scikit-learn,Spark,AWS,Power BI",9,PhD,Tel Aviv,17642
+403,"PyTorch,Pandas,Excel,Docker,Spark",0,PhD,Jerusalem,19784
+404,"Docker,Power BI,Scikit-learn",5,High School,Jerusalem,21930
+405,"Scikit-learn,Power BI,Docker,AWS,SQL",3,Bachelor,Jerusalem,26519
+406,"Scikit-learn,Docker,PyTorch,Excel,SQL",3,PhD,Haifa,25342
+407,"Git,Tableau,TensorFlow,Python,Spark,Pandas",1,Master,Remote,16444
+408,"Pandas,NumPy,Git",0,Bachelor,Tel Aviv,26956
+409,"TensorFlow,Docker,NumPy",4,Master,Remote,28551
+410,"AWS,SQL,Spark,Python,NumPy,TensorFlow",7,PhD,Haifa,27551
+411,"TensorFlow,Pandas,Scikit-learn,SQL,Docker",0,PhD,Tel Aviv,17338
+412,"Spark,NumPy,AWS,Git",10,Bachelor,Jerusalem,25418
+413,"Spark,Git,AWS",0,PhD,Haifa,17675
+414,"NumPy,Scikit-learn,Excel",4,Master,Remote,24336
+415,"Power BI,Scikit-learn,NumPy,Spark,Git",10,PhD,Tel Aviv,12240
+416,"Tableau,AWS,Excel,Docker,Scikit-learn",4,High School,Remote,14091
+417,"Scikit-learn,AWS,TensorFlow,Spark,Git",10,Master,Haifa,16912
+418,"Python,Git,Excel,PyTorch",10,Master,Haifa,12834
+419,"Scikit-learn,Spark,PyTorch,Docker,AWS,Python",9,Bachelor,Jerusalem,19286
+420,"AWS,TensorFlow,Tableau,Scikit-learn,Pandas,Docker",2,Master,Tel Aviv,27426
+421,"Docker,Scikit-learn,Spark,Tableau",2,Master,Tel Aviv,19282
+422,"NumPy,Docker,Scikit-learn,PyTorch,TensorFlow",5,Master,Jerusalem,27196
+423,"Power BI,Python,AWS",9,High School,Remote,18374
+424,"Spark,AWS,PyTorch",8,Master,Remote,13771
+425,"Pandas,NumPy,TensorFlow,PyTorch",9,PhD,Haifa,22367
+426,"Git,SQL,Power BI,TensorFlow",10,Bachelor,Jerusalem,13900
+427,"Power BI,Scikit-learn,NumPy",2,Bachelor,Remote,14884
+428,"Excel,PyTorch,AWS,Git",6,PhD,Remote,24560
+429,"Python,Tableau,NumPy",5,High School,Jerusalem,29400
+430,"Python,AWS,Spark,Git",3,Bachelor,Jerusalem,22226
+431,"SQL,PyTorch,Tableau,Excel",4,Bachelor,Tel Aviv,13498
+432,"Scikit-learn,Power BI,Docker,Tableau,Excel",8,Master,Remote,16384
+433,"Power BI,TensorFlow,NumPy,Pandas,PyTorch",0,Bachelor,Haifa,16299
+434,"Docker,Python,Excel,Tableau",2,High School,Jerusalem,13224
+435,"AWS,Scikit-learn,Tableau,Excel,Python,Spark",10,High School,Tel Aviv,13580
+436,"PyTorch,Power BI,Spark",1,Master,Remote,17017
+437,"Docker,AWS,Git,Python",4,PhD,Tel Aviv,29049
+438,"Excel,Spark,Docker,Pandas,PyTorch",1,High School,Jerusalem,15735
+439,"Power BI,NumPy,Excel",3,Master,Haifa,23728
+440,"Scikit-learn,Pandas,Python,Tableau,Power BI,NumPy",7,Master,Haifa,12089
+441,"AWS,SQL,Git",9,PhD,Haifa,14951
+442,"Docker,Spark,SQL",4,Bachelor,Remote,21700
+443,"Power BI,Python,SQL,Pandas,Git",4,Master,Jerusalem,25959
+444,"SQL,Git,Python",0,Bachelor,Haifa,22769
+445,"Power BI,Excel,Scikit-learn,SQL,TensorFlow",5,Bachelor,Tel Aviv,25132
+446,"Power BI,Scikit-learn,PyTorch,Spark,Docker,Pandas",1,Bachelor,Tel Aviv,17223
+447,"PyTorch,Excel,Power BI",9,PhD,Haifa,24443
+448,"Excel,Python,AWS,Pandas,Power BI",7,High School,Remote,26440
+449,"SQL,Scikit-learn,AWS",5,High School,Haifa,23085
+450,"PyTorch,AWS,Docker",3,PhD,Jerusalem,24611
+451,"Spark,Tableau,Excel,Python",0,Bachelor,Remote,28247
+452,"SQL,Git,Power BI,TensorFlow",3,Master,Jerusalem,13649
+453,"Tableau,AWS,PyTorch,Docker",3,High School,Remote,26555
+454,"SQL,Power BI,Git,TensorFlow,Spark,Docker",10,High School,Tel Aviv,25219
+455,"Python,Tableau,Git,Spark,SQL,Scikit-learn",8,Bachelor,Remote,23169
+456,"Spark,Python,NumPy,Power BI,TensorFlow",8,PhD,Jerusalem,26828
+457,"SQL,Git,AWS",3,High School,Jerusalem,23637
+458,"Tableau,Spark,TensorFlow,SQL,Python",2,PhD,Haifa,25409
+459,"Scikit-learn,Excel,NumPy",3,High School,Remote,19064
+460,"Spark,Git,NumPy,TensorFlow,SQL,PyTorch",0,High School,Remote,26987
+461,"Power BI,Python,Tableau,Git",8,PhD,Remote,28657
+462,"Docker,Excel,Pandas,Spark",1,PhD,Jerusalem,28518
+463,"PyTorch,Excel,Docker,NumPy,Scikit-learn,Spark",5,Master,Remote,16370
+464,"PyTorch,Excel,Docker,Tableau",4,Master,Haifa,18582
+465,"Excel,Docker,Scikit-learn,AWS",5,Bachelor,Haifa,28511
+466,"Docker,SQL,TensorFlow,Tableau,Power BI",9,PhD,Jerusalem,25840
+467,"Tableau,SQL,Python",6,Bachelor,Tel Aviv,13854
+468,"Scikit-learn,Git,Pandas,Spark",10,Master,Haifa,14032
+469,"NumPy,Git,Tableau,Python,TensorFlow",7,High School,Haifa,24743
+470,"Tableau,Git,Docker,Scikit-learn",10,High School,Remote,24699
+471,"Git,AWS,TensorFlow,Tableau,Python,Excel",4,Bachelor,Remote,19390
+472,"Git,Excel,Tableau,Spark,NumPy",3,Master,Remote,17813
+473,"Pandas,Spark,Docker",8,High School,Remote,13331
+474,"Scikit-learn,Tableau,Spark,Pandas,AWS,Docker",0,Master,Remote,17072
+475,"Pandas,TensorFlow,Excel",0,Master,Remote,23733
+476,"Git,Docker,TensorFlow",8,Bachelor,Haifa,29059
+477,"Git,Tableau,Pandas",6,PhD,Tel Aviv,23449
+478,"NumPy,AWS,TensorFlow,Docker",5,Master,Haifa,29383
+479,"Tableau,Git,AWS,Python,SQL,TensorFlow",7,Bachelor,Haifa,13306
+480,"PyTorch,Git,SQL,Spark,Scikit-learn",8,Master,Tel Aviv,28936
+481,"Tableau,Git,Spark,Power BI,AWS",0,Master,Haifa,22496
+482,"SQL,Pandas,Tableau",8,High School,Tel Aviv,18906
+483,"Spark,AWS,PyTorch,SQL",3,PhD,Tel Aviv,17038
+484,"Power BI,Docker,TensorFlow",0,High School,Tel Aviv,13778
+485,"Git,Scikit-learn,Tableau,SQL",9,Bachelor,Jerusalem,25357
+486,"Power BI,AWS,PyTorch,Docker,TensorFlow,Python",6,High School,Tel Aviv,14072
+487,"Docker,SQL,TensorFlow",8,High School,Jerusalem,21874
+488,"Scikit-learn,Git,Power BI",6,PhD,Tel Aviv,27531
+489,"Tableau,NumPy,Pandas,PyTorch",8,Master,Haifa,21766
+490,"Python,Tableau,Git,Pandas,SQL",0,High School,Remote,29601
+491,"Scikit-learn,NumPy,Docker",5,Bachelor,Remote,28795
+492,"Pandas,Spark,NumPy,Excel",4,Bachelor,Tel Aviv,17942
+493,"Spark,Git,Tableau",7,High School,Jerusalem,14207
+494,"SQL,NumPy,Docker,Excel,Power BI",5,Master,Haifa,19685
+495,"Scikit-learn,Excel,SQL",3,Master,Remote,26766
+496,"Excel,AWS,Scikit-learn,Spark,Pandas",9,Master,Jerusalem,26034
+497,"Python,TensorFlow,NumPy,Docker",10,PhD,Jerusalem,23779
+498,"AWS,Docker,TensorFlow,Power BI",7,PhD,Jerusalem,22009
+499,"Tableau,SQL,Pandas,AWS,Excel,Git",4,Bachelor,Haifa,20625
+500,"Docker,SQL,Python",8,High School,Remote,18971
+501,"Tableau,Scikit-learn,Spark",8,PhD,Haifa,23987
+502,"NumPy,Git,Excel,Scikit-learn,Pandas,Power BI",8,High School,Remote,23923
+503,"AWS,NumPy,Excel",10,Bachelor,Haifa,26621
+504,"Pandas,Excel,Git,AWS",2,PhD,Jerusalem,13324
+505,"Git,Power BI,NumPy,SQL",4,Master,Haifa,13402
+506,"Tableau,Git,TensorFlow,PyTorch",7,PhD,Tel Aviv,13307
+507,"SQL,Docker,Tableau,AWS,Scikit-learn",4,Bachelor,Remote,24403
+508,"Excel,AWS,SQL,Tableau,Scikit-learn",6,Bachelor,Remote,23563
+509,"Power BI,Git,Spark,Excel,Python",8,Bachelor,Remote,17426
+510,"SQL,Tableau,AWS,Scikit-learn",3,Bachelor,Haifa,17156
+511,"Excel,Docker,SQL,AWS,NumPy",6,Master,Tel Aviv,27778
+512,"Power BI,NumPy,Excel,Pandas,PyTorch,Python",3,High School,Haifa,17279
+513,"AWS,Tableau,Python,Excel",2,High School,Haifa,20462
+514,"Tableau,PyTorch,Excel,Docker",10,High School,Jerusalem,14809
+515,"Power BI,Excel,Spark,Docker",2,Bachelor,Remote,16676
+516,"Excel,AWS,Tableau,Scikit-learn",2,Master,Remote,14255
+517,"PyTorch,Spark,Pandas,SQL",0,Bachelor,Remote,16900
+518,"Pandas,Power BI,Excel",9,High School,Tel Aviv,15053
+519,"AWS,Pandas,Excel,Tableau,Python,PyTorch",8,PhD,Jerusalem,13423
+520,"NumPy,Git,Power BI,PyTorch,TensorFlow,SQL",6,Bachelor,Jerusalem,27634
+521,"Spark,SQL,Scikit-learn,Excel",8,PhD,Jerusalem,18193
+522,"Docker,Spark,Python",9,High School,Tel Aviv,24288
+523,"Docker,Git,TensorFlow,PyTorch",5,High School,Haifa,25961
+524,"Scikit-learn,Tableau,PyTorch,Excel,TensorFlow",9,Master,Remote,18674
+525,"Tableau,Git,Spark,Power BI,Pandas,TensorFlow",8,PhD,Jerusalem,22048
+526,"Git,Docker,PyTorch,Pandas,SQL",3,PhD,Haifa,15285
+527,"Tableau,PyTorch,TensorFlow,Spark",9,High School,Haifa,24750
+528,"Git,SQL,Pandas",7,PhD,Tel Aviv,14099
+529,"NumPy,TensorFlow,SQL,Excel,Python",6,PhD,Jerusalem,13882
+530,"AWS,Power BI,Git,Python",3,Master,Haifa,13101
+531,"Excel,Pandas,AWS,Python",5,Bachelor,Tel Aviv,17159
+532,"Scikit-learn,Git,PyTorch",5,PhD,Remote,18563
+533,"Docker,Spark,SQL",1,Master,Jerusalem,23386
+534,"NumPy,Excel,Spark,Power BI,PyTorch",9,High School,Jerusalem,17735
+535,"Tableau,SQL,Spark,Git,Docker,Scikit-learn",5,High School,Jerusalem,29626
+536,"Docker,Power BI,PyTorch,Excel,Git",3,Master,Remote,27096
+537,"Power BI,SQL,Scikit-learn",1,PhD,Haifa,19534
+538,"PyTorch,TensorFlow,Tableau,Docker,Python",4,Bachelor,Jerusalem,15047
+539,"AWS,Docker,TensorFlow,SQL,Tableau,Pandas",7,Master,Jerusalem,19161
+540,"Pandas,Docker,AWS,NumPy,Power BI",3,Bachelor,Haifa,20696
+541,"NumPy,Spark,Git,Excel",5,Bachelor,Tel Aviv,15928
+542,"AWS,Spark,Power BI",9,High School,Tel Aviv,27803
+543,"Excel,TensorFlow,Power BI,Spark,Scikit-learn",7,Bachelor,Jerusalem,25037
+544,"Git,Excel,Pandas,Python",8,PhD,Remote,29719
+545,"Tableau,TensorFlow,PyTorch",10,Bachelor,Remote,15944
+546,"TensorFlow,Docker,Python,Git,NumPy,PyTorch",9,High School,Jerusalem,23848
+547,"Pandas,Tableau,Scikit-learn,NumPy,Docker",7,Master,Jerusalem,18026
+548,"PyTorch,NumPy,Spark,TensorFlow,AWS,Docker",4,PhD,Haifa,16297
+549,"Spark,SQL,Docker,Scikit-learn",3,PhD,Remote,18424
+550,"Git,Docker,Pandas,Power BI",0,Bachelor,Remote,28370
+551,"Spark,AWS,Tableau,Docker",5,PhD,Jerusalem,20223
+552,"PyTorch,SQL,Docker",2,High School,Haifa,20332
+553,"Spark,AWS,SQL,Power BI,TensorFlow,Scikit-learn",5,Master,Jerusalem,23276
+554,"PyTorch,SQL,TensorFlow",10,Bachelor,Haifa,21326
+555,"TensorFlow,AWS,Tableau,Power BI,Git",1,PhD,Jerusalem,27196
+556,"Spark,Pandas,AWS,TensorFlow",6,PhD,Tel Aviv,14592
+557,"TensorFlow,NumPy,Spark,Docker",10,Master,Jerusalem,24958
+558,"Power BI,Git,TensorFlow,Excel,Tableau",7,PhD,Haifa,18025
+559,"Pandas,Docker,NumPy",10,Master,Tel Aviv,18900
+560,"PyTorch,SQL,Git,Docker",7,High School,Tel Aviv,25009
+561,"SQL,Scikit-learn,Excel",2,High School,Remote,22137
+562,"NumPy,Docker,Scikit-learn,Power BI",10,Bachelor,Haifa,29260
+563,"Python,Spark,AWS,TensorFlow",5,PhD,Remote,29713
+564,"Tableau,Power BI,Pandas,Spark,Docker",9,PhD,Remote,29152
+565,"TensorFlow,Power BI,Tableau,NumPy,SQL",7,Master,Jerusalem,25507
+566,"Pandas,Scikit-learn,Python,Docker,Tableau",2,Master,Jerusalem,27374
+567,"Docker,Power BI,Git",4,High School,Remote,21598
+568,"Git,Python,Tableau,TensorFlow",3,PhD,Remote,24935
+569,"Pandas,Docker,Git,AWS",6,PhD,Haifa,20617
+570,"PyTorch,AWS,NumPy",8,Master,Jerusalem,29430
+571,"PyTorch,NumPy,SQL,Pandas,AWS",4,High School,Remote,26836
+572,"Docker,Excel,Power BI,NumPy,TensorFlow",0,Bachelor,Tel Aviv,29529
+573,"Pandas,SQL,Scikit-learn",4,Bachelor,Remote,12268
+574,"SQL,Pandas,Python,Power BI",3,Master,Remote,22209
+575,"TensorFlow,Power BI,Docker,Python,Spark,SQL",2,High School,Jerusalem,24858
+576,"Tableau,Power BI,Pandas",3,Master,Remote,12413
+577,"Git,Docker,NumPy",6,PhD,Haifa,13098
+578,"Power BI,Docker,SQL,Tableau",10,Bachelor,Remote,24750
+579,"TensorFlow,Pandas,AWS,Python,Tableau",8,High School,Jerusalem,27768
+580,"NumPy,TensorFlow,Python,AWS,Spark",1,Bachelor,Remote,22633
+581,"Pandas,Git,Scikit-learn",9,High School,Remote,19965
+582,"Python,Excel,Docker",7,Bachelor,Jerusalem,14932
+583,"Pandas,Power BI,SQL,AWS",9,Master,Tel Aviv,13958
+584,"AWS,Pandas,Docker,Tableau,SQL",2,PhD,Haifa,22378
+585,"Git,Power BI,Docker,NumPy,Python",6,Master,Haifa,20214
+586,"Power BI,Docker,Spark",8,Master,Remote,18218
+587,"Tableau,TensorFlow,Git,Power BI",4,Bachelor,Tel Aviv,29404
+588,"Power BI,Scikit-learn,Git,Tableau",5,PhD,Tel Aviv,28579
+589,"Docker,Pandas,Python,Excel,TensorFlow,NumPy",5,High School,Remote,18221
+590,"Git,Tableau,Pandas,Excel,Scikit-learn,TensorFlow",6,Master,Tel Aviv,15154
+591,"Python,Pandas,Git",0,Bachelor,Tel Aviv,27904
+592,"SQL,Python,Excel,AWS",6,PhD,Jerusalem,13608
+593,"NumPy,Excel,Docker,SQL,Python",3,PhD,Tel Aviv,27337
+594,"TensorFlow,Tableau,Docker",6,Master,Tel Aviv,20710
+595,"Docker,SQL,Scikit-learn",1,Bachelor,Tel Aviv,15316
+596,"Tableau,PyTorch,NumPy,Docker",8,Bachelor,Haifa,25604
+597,"Git,AWS,Excel",5,PhD,Remote,15411
+598,"Git,Pandas,Tableau,PyTorch",8,Master,Haifa,29494
+599,"TensorFlow,Spark,Tableau,Git,AWS,PyTorch",10,PhD,Jerusalem,19887
+600,"PyTorch,Git,Tableau,Scikit-learn",5,PhD,Remote,25011
+601,"Docker,Python,Scikit-learn",9,High School,Haifa,21890
+602,"Scikit-learn,NumPy,Git",5,High School,Jerusalem,28753
+603,"SQL,Python,Power BI,TensorFlow",2,Bachelor,Jerusalem,24028
+604,"NumPy,Scikit-learn,Git,SQL",9,PhD,Haifa,14529
+605,"Git,Power BI,Pandas,Spark,Excel",1,Master,Tel Aviv,24502
+606,"Git,Python,TensorFlow",5,PhD,Remote,15949
+607,"Docker,AWS,Excel,Python",10,PhD,Tel Aviv,21987
+608,"TensorFlow,Tableau,Excel",2,Master,Haifa,17019
+609,"AWS,Docker,PyTorch",7,High School,Haifa,26153
+610,"Git,PyTorch,Pandas,Docker,TensorFlow",1,PhD,Tel Aviv,29961
+611,"Scikit-learn,SQL,PyTorch,Tableau,Docker,Pandas",2,PhD,Haifa,27986
+612,"AWS,Excel,NumPy,Tableau,Git,Spark",3,Bachelor,Tel Aviv,20724
+613,"TensorFlow,AWS,Excel,SQL,Git,PyTorch",6,Master,Jerusalem,18241
+614,"TensorFlow,Excel,AWS,Python,Scikit-learn",2,Master,Remote,16778
+615,"Python,NumPy,Git,AWS,TensorFlow,Pandas",1,High School,Tel Aviv,19964
+616,"Spark,Scikit-learn,Python,TensorFlow",1,Master,Remote,27439
+617,"TensorFlow,NumPy,Docker",8,Bachelor,Haifa,29905
+618,"Tableau,Power BI,Excel,Pandas,Python",6,High School,Jerusalem,17581
+619,"Scikit-learn,NumPy,Docker",9,Master,Tel Aviv,27235
+620,"SQL,PyTorch,AWS",4,Master,Tel Aviv,12625
+621,"Spark,AWS,PyTorch,NumPy,Docker",8,High School,Jerusalem,27881
+622,"Pandas,NumPy,Tableau",7,High School,Tel Aviv,20106
+623,"TensorFlow,Power BI,PyTorch,Pandas,Python",5,Master,Jerusalem,21906
+624,"Tableau,Scikit-learn,Python,AWS",4,PhD,Tel Aviv,21181
+625,"Pandas,TensorFlow,PyTorch,AWS",2,High School,Remote,29062
+626,"PyTorch,NumPy,Excel,Pandas",6,Master,Jerusalem,26718
+627,"NumPy,AWS,Pandas,Excel",8,Bachelor,Haifa,22125
+628,"PyTorch,Git,Pandas,AWS",9,Bachelor,Jerusalem,14222
+629,"Pandas,TensorFlow,Spark",0,Master,Remote,25475
+630,"Power BI,Docker,AWS,Scikit-learn,Pandas",3,High School,Haifa,18053
+631,"Git,Excel,Spark",4,Bachelor,Haifa,19566
+632,"TensorFlow,SQL,Docker",7,Bachelor,Remote,24253
+633,"Spark,PyTorch,Power BI,Docker",2,Bachelor,Haifa,19414
+634,"PyTorch,Git,Python",4,PhD,Haifa,18646
+635,"SQL,Pandas,Power BI,Excel",7,Master,Remote,20086
+636,"PyTorch,Git,Python,Excel,Spark,TensorFlow",6,High School,Tel Aviv,26798
+637,"Spark,Python,NumPy,Tableau,AWS,PyTorch",0,PhD,Tel Aviv,18221
+638,"Power BI,PyTorch,Scikit-learn,Docker,Spark",2,PhD,Jerusalem,13787
+639,"Power BI,AWS,Spark,SQL",8,High School,Haifa,29904
+640,"PyTorch,Spark,TensorFlow,Power BI",0,Bachelor,Remote,18616
+641,"SQL,Scikit-learn,TensorFlow,AWS,Pandas,Spark",1,High School,Remote,23892
+642,"Tableau,Docker,PyTorch",8,Bachelor,Remote,24471
+643,"Git,Pandas,TensorFlow",9,Bachelor,Haifa,16738
+644,"Git,Docker,Python,PyTorch",4,Master,Remote,21462
+645,"SQL,Pandas,NumPy,Python",9,Master,Tel Aviv,27028
+646,"Spark,Power BI,Tableau,Python,Excel,Git",3,Bachelor,Remote,26868
+647,"Power BI,SQL,Excel,Docker,Python,NumPy",8,Master,Haifa,13602
+648,"Pandas,Python,AWS,TensorFlow",0,Bachelor,Tel Aviv,21779
+649,"SQL,Python,Spark,PyTorch,Pandas",2,Master,Haifa,26920
+650,"Python,SQL,Scikit-learn,TensorFlow,AWS",6,High School,Remote,14127
+651,"Power BI,Pandas,SQL,Scikit-learn,TensorFlow",8,PhD,Haifa,18850
+652,"SQL,Excel,Docker",10,High School,Remote,21410
+653,"Excel,TensorFlow,Scikit-learn,Tableau,Spark,Git",2,PhD,Remote,28138
+654,"Excel,NumPy,Docker,Scikit-learn",3,High School,Tel Aviv,12785
+655,"AWS,Git,SQL,NumPy,Excel,PyTorch",6,High School,Jerusalem,23457
+656,"Python,AWS,NumPy,Scikit-learn",4,High School,Jerusalem,21839
+657,"Git,Python,SQL,AWS,TensorFlow",5,PhD,Tel Aviv,17755
+658,"TensorFlow,Spark,AWS,Power BI",7,High School,Haifa,27777
+659,"AWS,Power BI,Tableau,TensorFlow",7,PhD,Tel Aviv,29074
+660,"Excel,Docker,AWS,TensorFlow,Tableau",8,High School,Haifa,22869
+661,"SQL,Pandas,Scikit-learn,Python,TensorFlow",6,Bachelor,Remote,18140
+662,"Spark,Git,Scikit-learn",5,High School,Jerusalem,25561
+663,"Power BI,NumPy,TensorFlow",7,Master,Haifa,29206
+664,"Pandas,SQL,TensorFlow,Python,NumPy",1,PhD,Tel Aviv,27815
+665,"NumPy,TensorFlow,Power BI,Tableau",4,Master,Haifa,15219
+666,"NumPy,Docker,Python,Power BI",6,High School,Tel Aviv,22190
+667,"AWS,Excel,SQL",5,PhD,Tel Aviv,15378
+668,"Python,Excel,Scikit-learn,AWS,NumPy",5,Bachelor,Haifa,21390
+669,"Tableau,TensorFlow,Power BI,AWS,SQL",4,Bachelor,Haifa,20966
+670,"Python,Excel,Tableau",8,High School,Haifa,29777
+671,"Tableau,TensorFlow,Scikit-learn,Pandas,Docker",9,Bachelor,Haifa,14334
+672,"Excel,TensorFlow,Tableau,Power BI,Python",2,High School,Remote,13653
+673,"PyTorch,Python,SQL",6,PhD,Haifa,26609
+674,"Scikit-learn,TensorFlow,NumPy,AWS,Tableau",1,PhD,Haifa,15044
+675,"SQL,Power BI,Scikit-learn,AWS,Git,Excel",3,Bachelor,Haifa,20455
+676,"PyTorch,Pandas,Docker,AWS,TensorFlow",5,PhD,Remote,12991
+677,"Power BI,SQL,TensorFlow",7,PhD,Haifa,21249
+678,"Excel,Spark,Pandas,Tableau,SQL",6,High School,Jerusalem,14324
+679,"Tableau,Power BI,PyTorch,Excel,Docker",3,Bachelor,Haifa,27806
+680,"SQL,TensorFlow,NumPy,Excel,PyTorch,AWS",9,Master,Haifa,17671
+681,"Docker,Spark,Excel",7,High School,Remote,22661
+682,"Spark,Power BI,Pandas",4,PhD,Tel Aviv,15563
+683,"TensorFlow,Power BI,AWS,Docker,Python,SQL",3,Bachelor,Tel Aviv,16807
+684,"Power BI,Tableau,Scikit-learn,PyTorch",9,PhD,Haifa,18739
+685,"Scikit-learn,Excel,AWS,Spark,PyTorch",5,High School,Tel Aviv,28725
+686,"Spark,Pandas,Scikit-learn,Python,TensorFlow,Tableau",0,High School,Jerusalem,15594
+687,"Spark,Python,NumPy,PyTorch,Excel",6,Master,Remote,25304
+688,"PyTorch,Tableau,NumPy,AWS,Pandas,Power BI",2,Bachelor,Remote,23805
+689,"Pandas,Scikit-learn,AWS,Spark,Docker,Python",1,High School,Haifa,27948
+690,"Pandas,SQL,Spark,AWS,PyTorch,Power BI",9,PhD,Haifa,26889
+691,"Tableau,Power BI,PyTorch,TensorFlow,NumPy,Pandas",6,High School,Remote,19757
+692,"PyTorch,Tableau,Excel,TensorFlow,Python",0,PhD,Jerusalem,15708
+693,"Docker,SQL,Pandas,Tableau,Scikit-learn,Power BI",8,High School,Tel Aviv,20035
+694,"AWS,Docker,Spark,Git,SQL,Tableau",9,Master,Tel Aviv,23257
+695,"Power BI,Spark,Tableau",7,Master,Remote,23564
+696,"Scikit-learn,Pandas,Python,Excel,Spark",9,Master,Tel Aviv,27504
+697,"Excel,Python,AWS,Scikit-learn",9,High School,Jerusalem,27884
+698,"Pandas,Tableau,SQL",4,Master,Haifa,21206
+699,"Spark,Scikit-learn,Python,SQL,Excel",2,Bachelor,Remote,24116
+700,"Scikit-learn,Git,Docker,NumPy",7,Bachelor,Tel Aviv,23234
+701,"Pandas,Excel,Spark",7,PhD,Remote,19797
+702,"Docker,AWS,Pandas,NumPy,Excel,TensorFlow",0,Master,Tel Aviv,13721
+703,"Power BI,PyTorch,Spark,Scikit-learn",7,Bachelor,Remote,24781
+704,"Scikit-learn,Pandas,Tableau,PyTorch,Python,Spark",7,PhD,Jerusalem,29375
+705,"SQL,Tableau,AWS",5,PhD,Jerusalem,22976
+706,"Scikit-learn,Git,SQL,Spark,Excel",6,PhD,Haifa,18387
+707,"AWS,Docker,Pandas,TensorFlow,Tableau",0,High School,Tel Aviv,12391
+708,"SQL,Tableau,Spark,AWS,Power BI,TensorFlow",3,Master,Jerusalem,18326
+709,"Python,Excel,SQL",0,Bachelor,Tel Aviv,15931
+710,"Spark,Excel,Pandas",6,Bachelor,Tel Aviv,18037
+711,"Scikit-learn,Power BI,AWS,SQL,Git",4,PhD,Jerusalem,20432
+712,"Git,SQL,Scikit-learn,Python",6,PhD,Jerusalem,13968
+713,"Spark,Scikit-learn,Pandas,Power BI,SQL",7,Bachelor,Remote,17847
+714,"SQL,Pandas,Tableau,PyTorch,NumPy,Spark",7,Master,Tel Aviv,13142
+715,"SQL,Excel,Docker",4,PhD,Tel Aviv,28308
+716,"AWS,Spark,Python,Docker",10,PhD,Jerusalem,16967
+717,"PyTorch,Excel,Python,Tableau,Power BI",7,PhD,Remote,14297
+718,"Python,PyTorch,Docker,Power BI",1,Master,Jerusalem,21923
+719,"Python,AWS,Git,SQL,TensorFlow,Tableau",5,High School,Remote,21501
+720,"Pandas,Tableau,Python,PyTorch",10,Bachelor,Jerusalem,24782
+721,"AWS,Docker,TensorFlow",7,High School,Remote,18208
+722,"Python,NumPy,Spark,Excel",3,PhD,Remote,14064
+723,"Power BI,Tableau,Spark,Python,AWS",5,High School,Jerusalem,13402
+724,"SQL,NumPy,AWS,Docker,Tableau,Power BI",10,Bachelor,Haifa,14360
+725,"Docker,Pandas,Power BI",10,High School,Remote,13500
+726,"Docker,AWS,Pandas,Python",2,High School,Jerusalem,15188
+727,"Excel,Pandas,Spark,SQL,AWS,Docker",7,Bachelor,Tel Aviv,18640
+728,"TensorFlow,Git,Docker,AWS,PyTorch,Spark",1,Bachelor,Jerusalem,18987
+729,"Excel,Pandas,TensorFlow",1,High School,Jerusalem,16628
+730,"Pandas,Docker,TensorFlow,Tableau,Spark,Power BI",3,High School,Haifa,15275
+731,"Git,Pandas,Python,Power BI,SQL,Docker",0,Bachelor,Tel Aviv,21297
+732,"Docker,Git,Power BI,Pandas,NumPy,AWS",10,Master,Remote,25501
+733,"Pandas,Excel,Docker,Python",9,Bachelor,Remote,14884
+734,"TensorFlow,PyTorch,Python,Tableau,NumPy",3,High School,Tel Aviv,23858
+735,"Power BI,Git,AWS,Docker",3,Master,Tel Aviv,18347
+736,"Git,Pandas,AWS",7,PhD,Haifa,17235
+737,"Python,AWS,TensorFlow",4,Bachelor,Remote,20237
+738,"Excel,Git,Power BI,Python,SQL",0,Bachelor,Haifa,12952
+739,"Tableau,SQL,Git,NumPy,Power BI,TensorFlow",6,Bachelor,Jerusalem,19538
+740,"TensorFlow,NumPy,SQL",3,PhD,Haifa,24305
+741,"SQL,Power BI,Excel,Git",0,PhD,Haifa,19083
+742,"Pandas,PyTorch,TensorFlow,Spark,Power BI,NumPy",10,Master,Jerusalem,18626
+743,"Pandas,Python,Docker,Excel,Git",4,Bachelor,Tel Aviv,27254
+744,"PyTorch,Pandas,TensorFlow,NumPy,Scikit-learn,Git",10,Bachelor,Haifa,14833
+745,"Spark,Tableau,Power BI,NumPy,Excel,Docker",7,Master,Tel Aviv,26028
+746,"NumPy,TensorFlow,PyTorch,Excel",3,Bachelor,Tel Aviv,25689
+747,"Python,Power BI,Docker",8,High School,Remote,29403
+748,"Power BI,Git,Docker,SQL,Spark,Excel",3,High School,Tel Aviv,25324
+749,"Pandas,TensorFlow,Scikit-learn,NumPy",10,High School,Tel Aviv,27721
+750,"Pandas,Docker,Power BI,Excel,AWS",0,PhD,Remote,16542
+751,"Pandas,Git,TensorFlow,AWS,Power BI,Python",10,High School,Remote,22908
+752,"Scikit-learn,PyTorch,Spark",9,Bachelor,Tel Aviv,23000
+753,"Tableau,AWS,TensorFlow",0,High School,Remote,23979
+754,"Excel,Python,TensorFlow,Docker,Pandas,Tableau",1,Bachelor,Haifa,22974
+755,"Tableau,SQL,AWS,Power BI",9,Bachelor,Haifa,22500
+756,"Scikit-learn,Tableau,AWS,PyTorch,Spark",0,High School,Jerusalem,23312
+757,"Power BI,Tableau,Git,SQL,Spark,Docker",10,Master,Remote,24063
+758,"NumPy,Power BI,SQL",1,PhD,Haifa,21449
+759,"SQL,Pandas,Scikit-learn",1,Bachelor,Remote,16931
+760,"Tableau,AWS,Python,Scikit-learn",6,Bachelor,Remote,23360
+761,"Power BI,Docker,AWS,Python,Scikit-learn,NumPy",1,High School,Haifa,29026
+762,"PyTorch,Excel,TensorFlow,AWS,Docker",7,PhD,Remote,21964
+763,"Git,Scikit-learn,Pandas,Spark",3,PhD,Jerusalem,21441
+764,"Pandas,TensorFlow,Scikit-learn",7,Bachelor,Haifa,29541
+765,"Pandas,Spark,Docker,AWS,Git",2,Bachelor,Tel Aviv,13348
+766,"Excel,Pandas,Power BI,Scikit-learn,TensorFlow",2,Bachelor,Tel Aviv,22385
+767,"Pandas,TensorFlow,Power BI,Tableau,Spark",8,Master,Tel Aviv,12816
+768,"Power BI,Git,Pandas,Spark,TensorFlow,Docker",0,Master,Jerusalem,27529
+769,"Git,Excel,AWS,Pandas,Spark",7,Master,Tel Aviv,27695
+770,"Pandas,AWS,Tableau",1,Master,Tel Aviv,25160
+771,"Power BI,TensorFlow,SQL,Git",0,Bachelor,Haifa,21107
+772,"Python,SQL,Tableau,Power BI",10,High School,Remote,18371
+773,"TensorFlow,Excel,Git,Tableau,Python,Spark",6,Bachelor,Remote,24112
+774,"TensorFlow,Python,Scikit-learn,Spark,AWS,Docker",7,High School,Haifa,26556
+775,"Git,Power BI,Scikit-learn,Pandas,PyTorch,Excel",2,High School,Haifa,18808
+776,"Power BI,Tableau,TensorFlow,SQL,Excel",6,High School,Tel Aviv,25417
+777,"PyTorch,Pandas,Tableau,Power BI,Excel",2,Bachelor,Haifa,24509
+778,"Tableau,Power BI,Python,Scikit-learn,Excel",4,PhD,Remote,19357
+779,"Git,Python,Pandas",4,Master,Remote,16069
+780,"PyTorch,Pandas,Power BI,AWS,NumPy",0,High School,Jerusalem,28156
+781,"Excel,Docker,TensorFlow",9,PhD,Remote,20451
+782,"Docker,SQL,TensorFlow,Tableau,Excel,Python",4,Bachelor,Tel Aviv,16788
+783,"Power BI,Docker,Pandas,TensorFlow,Git",0,Master,Jerusalem,25746
+784,"Python,Scikit-learn,Git,Tableau,SQL",8,Bachelor,Haifa,15096
+785,"Tableau,TensorFlow,Git,AWS",4,Master,Jerusalem,15140
+786,"Spark,Pandas,Python,Git,Tableau",4,Master,Remote,25500
+787,"Pandas,SQL,NumPy,Spark,Tableau",3,Bachelor,Tel Aviv,25675
+788,"SQL,Spark,Pandas,Python,Power BI,TensorFlow",4,Master,Haifa,26481
+789,"Pandas,Docker,Scikit-learn,Python,SQL",3,Bachelor,Haifa,19424
+790,"Pandas,NumPy,Spark,SQL,PyTorch",1,High School,Tel Aviv,27868
+791,"Python,NumPy,SQL,Spark,Tableau,AWS",7,High School,Jerusalem,13418
+792,"Scikit-learn,AWS,Python",1,High School,Haifa,18554
+793,"AWS,TensorFlow,Python,SQL",2,Master,Jerusalem,23540
+794,"Spark,Tableau,Docker,Excel",3,High School,Tel Aviv,12458
+795,"Docker,NumPy,Scikit-learn,Pandas",8,High School,Tel Aviv,19012
+796,"TensorFlow,Docker,Excel,Pandas,Power BI,SQL",2,Master,Remote,25896
+797,"Tableau,NumPy,PyTorch,SQL",5,High School,Remote,15614
+798,"Power BI,Git,TensorFlow,Scikit-learn",8,High School,Tel Aviv,22751
+799,"SQL,PyTorch,Scikit-learn,Power BI,Excel,Docker",10,PhD,Haifa,25345
+800,"Spark,PyTorch,NumPy,SQL,Power BI",10,Master,Haifa,12418
+801,"AWS,SQL,PyTorch,Power BI,Tableau,Git",1,Bachelor,Remote,25127
+802,"Docker,Pandas,SQL",5,Bachelor,Jerusalem,18562
+803,"SQL,NumPy,PyTorch,Power BI,Scikit-learn,Excel",10,PhD,Jerusalem,27591
+804,"Power BI,Tableau,Scikit-learn,Pandas,Spark,SQL",1,Master,Remote,28294
+805,"AWS,Pandas,Python,SQL",0,High School,Remote,12876
+806,"PyTorch,Excel,AWS,TensorFlow",2,Master,Tel Aviv,14507
+807,"Git,Power BI,NumPy,Scikit-learn,Spark,Excel",8,Master,Jerusalem,29712
+808,"Git,Python,PyTorch",1,PhD,Remote,22307
+809,"Power BI,Spark,Python,Docker,Pandas,Tableau",10,Master,Haifa,28104
+810,"Pandas,Scikit-learn,Docker,PyTorch,Power BI,SQL",9,PhD,Remote,27594
+811,"Tableau,Python,PyTorch,Scikit-learn",7,PhD,Jerusalem,21320
+812,"Python,Spark,Excel,Git,Pandas",5,Master,Tel Aviv,23182
+813,"SQL,PyTorch,TensorFlow,Docker,Git,AWS",0,Bachelor,Haifa,19688
+814,"Excel,SQL,Docker,Git,Scikit-learn",1,Master,Haifa,12645
+815,"Python,Power BI,AWS,PyTorch,Excel",8,PhD,Jerusalem,12668
+816,"Excel,Python,TensorFlow,PyTorch,Spark,AWS",5,High School,Remote,15278
+817,"TensorFlow,Power BI,Tableau,AWS",5,Bachelor,Jerusalem,23905
+818,"NumPy,Power BI,AWS,SQL,Tableau,Spark",4,Master,Tel Aviv,21742
+819,"Git,NumPy,Excel,SQL,Docker,AWS",9,Master,Jerusalem,14204
+820,"PyTorch,NumPy,TensorFlow,SQL,Scikit-learn,Tableau",4,PhD,Jerusalem,18556
+821,"PyTorch,Scikit-learn,Excel,Tableau,Power BI,AWS",2,High School,Haifa,28357
+822,"AWS,Docker,Power BI,Scikit-learn",10,PhD,Tel Aviv,29113
+823,"TensorFlow,Power BI,Pandas,NumPy",2,Master,Remote,25443
+824,"Spark,SQL,AWS,NumPy,PyTorch",4,Master,Haifa,20403
+825,"PyTorch,NumPy,SQL,Pandas",3,High School,Haifa,22175
+826,"Power BI,Tableau,PyTorch,Docker,Python,NumPy",2,Master,Haifa,12954
+827,"Git,Spark,Scikit-learn,AWS,Tableau",2,High School,Remote,12652
+828,"Spark,SQL,TensorFlow",9,Master,Tel Aviv,25336
+829,"AWS,Spark,SQL,PyTorch,Pandas",3,High School,Tel Aviv,29103
+830,"Power BI,SQL,NumPy,Excel,Git",5,Master,Remote,19731
+831,"NumPy,Pandas,SQL,Git,Spark,Scikit-learn",7,PhD,Jerusalem,13832
+832,"Tableau,TensorFlow,Docker,SQL,Git,Spark",6,PhD,Haifa,21100
+833,"TensorFlow,Power BI,Docker,Spark",4,High School,Tel Aviv,13791
+834,"Scikit-learn,Tableau,PyTorch,Spark",10,Master,Tel Aviv,29527
+835,"Spark,Power BI,PyTorch,Python",6,Master,Jerusalem,14957
+836,"Scikit-learn,NumPy,Pandas,Power BI",10,Master,Remote,13110
+837,"Spark,SQL,Power BI,Docker,PyTorch",5,PhD,Tel Aviv,17254
+838,"Tableau,SQL,TensorFlow,PyTorch,Excel",8,Master,Remote,12896
+839,"AWS,Spark,Pandas",10,PhD,Haifa,12100
+840,"NumPy,AWS,Scikit-learn,TensorFlow,Excel,SQL",1,Bachelor,Haifa,28920
+841,"Spark,Excel,AWS,PyTorch",5,PhD,Remote,16374
+842,"Pandas,AWS,Excel,TensorFlow,Scikit-learn",3,High School,Remote,24045
+843,"PyTorch,Spark,Excel,NumPy",0,High School,Haifa,14915
+844,"NumPy,Scikit-learn,Docker,Pandas,Python,PyTorch",9,PhD,Jerusalem,16890
+845,"TensorFlow,Pandas,Excel",1,High School,Remote,26867
+846,"SQL,NumPy,Docker,Git,AWS,Scikit-learn",4,PhD,Remote,16266
+847,"Spark,NumPy,Excel,Git,Scikit-learn,AWS",6,Bachelor,Remote,16782
+848,"Scikit-learn,Spark,NumPy",9,PhD,Haifa,24112
+849,"SQL,Python,Power BI,Pandas,TensorFlow,PyTorch",10,Bachelor,Remote,25870
+850,"SQL,Spark,Tableau,Python,AWS",5,Bachelor,Remote,23609
+851,"Python,Scikit-learn,Tableau",9,PhD,Jerusalem,24933
+852,"Pandas,Tableau,Python,Excel,Spark",4,Bachelor,Remote,23114
+853,"Pandas,SQL,TensorFlow,Tableau,PyTorch,Spark",4,High School,Jerusalem,13447
+854,"Power BI,Scikit-learn,Docker,TensorFlow",6,Master,Jerusalem,20642
+855,"PyTorch,Pandas,TensorFlow,Power BI,Git",8,PhD,Tel Aviv,18190
+856,"Python,NumPy,Pandas,Spark",7,Master,Haifa,27307
+857,"SQL,Power BI,Python,Git,TensorFlow,Tableau",7,PhD,Remote,15686
+858,"SQL,TensorFlow,Spark,NumPy",4,Bachelor,Haifa,28670
+859,"Excel,AWS,Spark,NumPy,Docker",0,Bachelor,Remote,14517
+860,"Git,Power BI,AWS,SQL",5,High School,Jerusalem,15997
+861,"TensorFlow,Excel,SQL,Spark,Pandas,Python",1,PhD,Remote,26878
+862,"Excel,AWS,Python,TensorFlow,Docker",10,PhD,Jerusalem,16237
+863,"Spark,Python,AWS,Scikit-learn",5,High School,Tel Aviv,29929
+864,"SQL,PyTorch,Scikit-learn,Pandas,NumPy,Git",1,High School,Haifa,17339
+865,"Git,PyTorch,Scikit-learn,AWS,Pandas,SQL",4,PhD,Remote,22161
+866,"TensorFlow,AWS,SQL,Spark",8,Bachelor,Remote,26596
+867,"Power BI,Scikit-learn,Excel,Docker,PyTorch,SQL",6,Master,Haifa,26224
+868,"SQL,Python,Tableau,TensorFlow,Power BI,NumPy",10,Bachelor,Remote,29277
+869,"Scikit-learn,Power BI,PyTorch",1,PhD,Jerusalem,16869
+870,"AWS,Scikit-learn,NumPy,Tableau",6,Master,Tel Aviv,14507
+871,"Tableau,SQL,Spark",6,PhD,Tel Aviv,27225
+872,"TensorFlow,Scikit-learn,Excel,SQL,Tableau",0,High School,Remote,17883
+873,"Spark,PyTorch,Python,SQL",6,Master,Jerusalem,26909
+874,"Excel,Git,Scikit-learn,TensorFlow,Pandas,NumPy",2,High School,Jerusalem,15484
+875,"Tableau,Python,Git,PyTorch,SQL,Docker",2,PhD,Remote,25274
+876,"Scikit-learn,Excel,Git,TensorFlow,PyTorch,Spark",1,Bachelor,Haifa,12454
+877,"SQL,Python,Docker,NumPy",0,Bachelor,Remote,16756
+878,"PyTorch,AWS,Tableau,NumPy",1,Master,Remote,16855
+879,"PyTorch,Python,SQL,Pandas,AWS,Power BI",7,PhD,Tel Aviv,26729
+880,"NumPy,Scikit-learn,Excel,PyTorch",0,Master,Tel Aviv,15364
+881,"PyTorch,Power BI,Docker,Excel,AWS,Tableau",4,High School,Remote,25096
+882,"Tableau,Excel,Docker,Git,Power BI,NumPy",0,High School,Remote,22349
+883,"Scikit-learn,AWS,PyTorch",7,High School,Remote,23362
+884,"Docker,PyTorch,Python,Pandas,Scikit-learn,NumPy",7,Master,Remote,19605
+885,"Excel,AWS,TensorFlow,Spark",10,PhD,Haifa,21613
+886,"PyTorch,AWS,Git,TensorFlow,Power BI,Pandas",9,Bachelor,Jerusalem,14824
+887,"Pandas,Spark,NumPy,Git,Excel,Power BI",1,PhD,Remote,21950
+888,"NumPy,Tableau,Python,Docker",5,Master,Jerusalem,17197
+889,"Spark,Tableau,Python,SQL",5,PhD,Tel Aviv,19428
+890,"Tableau,NumPy,Power BI",4,Master,Jerusalem,13529
+891,"Pandas,Docker,Tableau,Excel,SQL",0,PhD,Remote,15634
+892,"Git,Excel,Spark",1,High School,Tel Aviv,17473
+893,"Spark,NumPy,TensorFlow",2,Master,Remote,28577
+894,"Docker,SQL,Pandas,AWS,TensorFlow,Excel",2,High School,Haifa,26388
+895,"Git,Spark,Python,NumPy,Power BI,TensorFlow",4,Bachelor,Tel Aviv,20716
+896,"Docker,Git,PyTorch,TensorFlow,NumPy",2,PhD,Haifa,16521
+897,"PyTorch,Spark,Power BI,Tableau,TensorFlow,Python",7,Bachelor,Tel Aviv,28952
+898,"SQL,TensorFlow,Git",6,Bachelor,Remote,14014
+899,"Git,Python,AWS,Docker,Pandas,Spark",10,Master,Remote,25172
+900,"Docker,Spark,TensorFlow,Git,Python",4,Bachelor,Remote,26620
+901,"Tableau,Excel,Git,AWS",7,Master,Remote,18464
+902,"SQL,Python,Tableau,TensorFlow,PyTorch",2,Master,Haifa,15041
+903,"Tableau,TensorFlow,AWS,Pandas,Python",0,Master,Haifa,21959
+904,"Tableau,SQL,Docker,Python,TensorFlow,Scikit-learn",10,Master,Tel Aviv,13564
+905,"Power BI,Scikit-learn,Excel",0,PhD,Jerusalem,19736
+906,"TensorFlow,Scikit-learn,Git,AWS",9,Bachelor,Remote,29028
+907,"SQL,TensorFlow,Tableau,Excel",3,Master,Remote,15210
+908,"Docker,PyTorch,Git,SQL",1,High School,Remote,16261
+909,"NumPy,Power BI,SQL,TensorFlow,Tableau,PyTorch",9,PhD,Jerusalem,28345
+910,"Power BI,Docker,Spark,PyTorch,Pandas,Excel",8,Bachelor,Remote,26998
+911,"Docker,Tableau,Git,SQL",3,PhD,Remote,13068
+912,"Tableau,TensorFlow,SQL,Excel",6,High School,Tel Aviv,24110
+913,"Python,Tableau,Pandas,SQL,TensorFlow",4,Master,Jerusalem,21633
+914,"Python,Git,Pandas,Docker,Excel,PyTorch",0,Master,Jerusalem,19064
+915,"Spark,Docker,Power BI,Python",1,Master,Tel Aviv,13464
+916,"Power BI,Excel,Scikit-learn,Git,Spark,TensorFlow",6,PhD,Haifa,16539
+917,"Git,Power BI,AWS,Spark,Pandas,TensorFlow",1,PhD,Remote,19629
+918,"TensorFlow,Tableau,Python,AWS,Power BI,Scikit-learn",10,High School,Haifa,12812
+919,"Tableau,AWS,SQL,Git,Spark",1,Bachelor,Tel Aviv,29096
+920,"Git,Power BI,Tableau,Python",1,Bachelor,Tel Aviv,21009
+921,"NumPy,Docker,Excel,Power BI",1,Master,Remote,13474
+922,"Spark,Python,TensorFlow,PyTorch,Pandas,AWS",0,Master,Remote,20427
+923,"SQL,Spark,Tableau",2,Master,Haifa,17985
+924,"Git,SQL,Pandas,Scikit-learn,PyTorch",10,Bachelor,Tel Aviv,22659
+925,"Python,Docker,Spark,Scikit-learn",6,High School,Jerusalem,16668
+926,"TensorFlow,Scikit-learn,PyTorch,SQL,Python,NumPy",3,Bachelor,Remote,28666
+927,"SQL,Scikit-learn,Python,TensorFlow,Power BI,Tableau",6,High School,Remote,12947
+928,"AWS,NumPy,Python,Scikit-learn,Tableau,SQL",3,Bachelor,Jerusalem,25328
+929,"SQL,AWS,Tableau,NumPy,Pandas,TensorFlow",8,Bachelor,Haifa,29613
+930,"Tableau,Power BI,Python,Docker,Git,Scikit-learn",10,Bachelor,Tel Aviv,13971
+931,"Scikit-learn,Excel,Spark,AWS,PyTorch,TensorFlow",10,Bachelor,Jerusalem,13490
+932,"Docker,Tableau,Excel,SQL",4,High School,Remote,16029
+933,"Docker,Tableau,Scikit-learn,PyTorch",3,Master,Jerusalem,20564
+934,"Scikit-learn,NumPy,AWS,TensorFlow,Docker,Git",7,Master,Tel Aviv,16381
+935,"Excel,Power BI,Python",0,Bachelor,Remote,28022
+936,"Tableau,SQL,AWS,Docker,Git,Spark",0,PhD,Tel Aviv,23566
+937,"Spark,Excel,TensorFlow,PyTorch,Pandas,Python",1,PhD,Jerusalem,18323
+938,"Python,NumPy,Docker,Spark,Scikit-learn,TensorFlow",3,High School,Jerusalem,19246
+939,"Power BI,TensorFlow,Python,Scikit-learn",7,Bachelor,Tel Aviv,18425
+940,"SQL,Scikit-learn,Excel,Tableau,Power BI,Pandas",8,Bachelor,Haifa,14141
+941,"Docker,SQL,Pandas,Scikit-learn",9,Bachelor,Jerusalem,18286
+942,"Docker,AWS,Tableau",9,Master,Remote,12064
+943,"AWS,Spark,Git,Python,TensorFlow,PyTorch",6,Master,Tel Aviv,28983
+944,"Power BI,TensorFlow,Tableau,Python,NumPy,AWS",4,PhD,Remote,22362
+945,"PyTorch,NumPy,TensorFlow",1,High School,Haifa,25887
+946,"NumPy,Spark,Pandas",5,Master,Tel Aviv,15169
+947,"Power BI,PyTorch,Python",9,Master,Jerusalem,20098
+948,"Power BI,NumPy,TensorFlow",0,Master,Haifa,14389
+949,"Git,SQL,AWS,Power BI,Excel,Spark",1,High School,Tel Aviv,24366
+950,"Spark,Docker,SQL,Pandas,Python",7,High School,Jerusalem,26150
+951,"SQL,AWS,Python",8,High School,Jerusalem,24499
+952,"SQL,Excel,PyTorch,NumPy,Git,Python",7,PhD,Remote,26028
+953,"TensorFlow,AWS,Git",0,PhD,Jerusalem,18307
+954,"SQL,Python,Excel",1,Bachelor,Haifa,28675
+955,"TensorFlow,PyTorch,Power BI,Excel,Docker",2,Bachelor,Haifa,13444
+956,"Pandas,Scikit-learn,Excel",6,Master,Jerusalem,29732
+957,"Pandas,Power BI,Scikit-learn,Excel",5,Master,Jerusalem,12264
+958,"Python,NumPy,Tableau,Docker",0,PhD,Jerusalem,18403
+959,"AWS,NumPy,SQL,TensorFlow",3,PhD,Remote,22850
+960,"Excel,Scikit-learn,PyTorch,TensorFlow,Pandas",1,PhD,Tel Aviv,28250
+961,"Python,AWS,NumPy,Docker",7,Bachelor,Haifa,27753
+962,"Git,Docker,PyTorch,NumPy,Spark",2,High School,Jerusalem,12324
+963,"TensorFlow,Python,Tableau",1,Bachelor,Jerusalem,26431
+964,"AWS,Excel,TensorFlow,Python",0,Bachelor,Haifa,21309
+965,"NumPy,Scikit-learn,Docker,Pandas",5,Bachelor,Haifa,18422
+966,"Pandas,Scikit-learn,SQL",0,Bachelor,Remote,15636
+967,"NumPy,Scikit-learn,Power BI,Spark,TensorFlow",5,Bachelor,Remote,14142
+968,"Pandas,Spark,NumPy",3,PhD,Jerusalem,22418
+969,"AWS,NumPy,Python,Excel,Spark,Git",8,Master,Haifa,22737
+970,"Python,AWS,Scikit-learn,Pandas",8,PhD,Haifa,14667
+971,"Git,AWS,Excel,SQL,Pandas,Tableau",6,Master,Remote,29003
+972,"Pandas,TensorFlow,Docker,Git,Tableau,Power BI",7,PhD,Jerusalem,25138
+973,"NumPy,Spark,Git",7,Bachelor,Remote,19162
+974,"PyTorch,Spark,Excel,Pandas,TensorFlow",4,High School,Haifa,14753
+975,"Power BI,Tableau,TensorFlow,NumPy,Excel",0,PhD,Jerusalem,25962
+976,"Power BI,PyTorch,Git,TensorFlow,Spark,AWS",4,PhD,Tel Aviv,17884
+977,"NumPy,Scikit-learn,AWS,SQL,TensorFlow,Docker",4,High School,Jerusalem,19462
+978,"SQL,Spark,TensorFlow",0,Bachelor,Jerusalem,18443
+979,"Scikit-learn,Spark,Docker,AWS,Git",3,Bachelor,Jerusalem,12279
+980,"Scikit-learn,TensorFlow,PyTorch,Docker,Excel",10,High School,Remote,28798
+981,"Spark,PyTorch,NumPy,Docker",3,PhD,Haifa,28902
+982,"Docker,Power BI,TensorFlow,SQL,Spark,NumPy",6,PhD,Haifa,26374
+983,"Spark,Tableau,Python,TensorFlow,Pandas,Excel",4,High School,Remote,23621
+984,"NumPy,PyTorch,Git,AWS,Docker",8,Master,Jerusalem,12761
+985,"Pandas,Spark,TensorFlow",9,PhD,Remote,18691
+986,"SQL,Tableau,PyTorch,NumPy,Power BI,Spark",5,PhD,Jerusalem,15055
+987,"SQL,AWS,Tableau,Pandas",0,PhD,Tel Aviv,18117
+988,"SQL,PyTorch,Scikit-learn,NumPy",3,Master,Tel Aviv,26898
+989,"TensorFlow,Tableau,Python",2,Master,Remote,24815
+990,"SQL,Pandas,Tableau,PyTorch",7,High School,Remote,18765
+991,"Spark,NumPy,Scikit-learn,PyTorch",10,PhD,Haifa,22168
+992,"Tableau,Docker,AWS,Power BI",4,Bachelor,Tel Aviv,16675
+993,"SQL,PyTorch,Excel,NumPy,Tableau,TensorFlow",9,PhD,Remote,27161
+994,"Docker,SQL,Scikit-learn",10,PhD,Jerusalem,21746
+995,"Excel,Git,Pandas,PyTorch,NumPy,Docker",9,PhD,Remote,24604
+996,"Docker,Excel,SQL,PyTorch",0,Bachelor,Haifa,20971
+997,"AWS,SQL,Docker,NumPy,Power BI",6,High School,Jerusalem,14507
+998,"Tableau,Git,TensorFlow",6,PhD,Haifa,20282
+999,"Tableau,Python,Power BI,Git",1,PhD,Remote,23260
